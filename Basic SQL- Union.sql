@@ -1,0 +1,11 @@
+SELECT *
+FROM WHEmployeeDemo
+UNION
+SELECT *
+FROM EmployeeDemo
+
+SELECT *
+FROM WHEmployeeDemo
+UNION ALL
+SELECT *
+FROM EmployeeDemo
