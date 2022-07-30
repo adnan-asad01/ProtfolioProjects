@@ -33,7 +33,11 @@ Insert into EmployeeDemo VALUES
 (1007, 'Meredith', 'Palmer', 32, 'Female'),
 (1008, 'Stanley', 'Hudson', 38, 'Male'),
 (1009, 'Kevin', 'Malone', 31, 'Male')
-
+Insert into EmployeeDemo VALUES
+(1001, 'Ryan', 'Howard', 27, 'Male')
+Insert into EmployeeDemo VALUES
+(1015, 'Holy', '', 27, 'Male'),
+(1016, 'Daryl', 'Filbin', 27, 'Male')
 Insert into WHEmployeeDemo VALUES
 (1001, 'Kevin', 'Halpert', 30, 'Male'),
 (1002, 'Stanley', 'Beasley', 30, 'Female'),
